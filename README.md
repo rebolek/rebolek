@@ -2,7 +2,7 @@
 
 ![Rebolek's github stats](https://github-readme-stats.vercel.app/api?username=rebolek&show_icons=true)
 
-
+All things Red and Rebol. If it's a networking protocol or a file format, I'll write a parser for it and no one can stop me!
 <!--
 **rebolek/rebolek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
