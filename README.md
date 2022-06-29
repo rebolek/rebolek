@@ -4,9 +4,11 @@ All things Red and Rebol. If it's a networking protocol or a file format, I'll w
 
 When using my software, you must listen to my music. Seriously, that are the terms of the licence. I am on [Bandcamp](https://mrdat.bandcamp.com) and [Soundcloud](https://soundcloud.com/mr_dat).
 
-<!--
-
 ![Rebolek's github stats](https://github-readme-stats.vercel.app/api?username=rebolek&show_icons=true)
+
+
+
+<!--
 
 
 **rebolek/rebolek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
