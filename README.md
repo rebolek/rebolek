@@ -1,9 +1,14 @@
-### Hi there 👋
+### Rebolek's corner of the GitHub 👋
+
+All things Red and Rebol. If it's a networking protocol or a file format, I'll write a parser for it and no one can stop me!
+
+When using my software, you must listen to my music. Seriously, that are the terms of the licence. I am on [Bandcamp](https://mrdat.bandcamp.com) and [Soundcloud](https://soundcloud.com/mr_dat).
+
+<!--
 
 ![Rebolek's github stats](https://github-readme-stats.vercel.app/api?username=rebolek&show_icons=true)
 
-All things Red and Rebol. If it's a networking protocol or a file format, I'll write a parser for it and no one can stop me!
-<!--
+
 **rebolek/rebolek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
